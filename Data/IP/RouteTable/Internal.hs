@@ -20,6 +20,7 @@ import Data.Monoid
 import Data.Traversable
 import Data.Word
 import Prelude hiding (lookup)
+import Data.List (foldl')
 
 ----------------------------------------------------------------
 
